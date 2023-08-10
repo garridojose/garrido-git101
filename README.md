@@ -4,4 +4,4 @@
 
 
 
-"IT1331L TESTING"
+"IT1331L"
